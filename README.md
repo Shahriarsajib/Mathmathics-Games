@@ -1,4 +1,4 @@
-**Math Games Project**
+******Math Games Project******
 
 **Author:** Shahriar Siddique 
 
