@@ -13,13 +13,17 @@ This is a simple command-line Math Games Project written in C. The project offer
 How to Play
 1.	Compile and run the program.
 2.	The main menu will be displayed with the following options:
-•	Start Game: Choose the game mode and math operation.
-•	About me: Get information about the author.
-•	Exit: Exit the game.
-3.	Select the "Start Game" option to choose the difficulty level (easy, medium, hard) and the desired math operation (addition, subtraction, multiplication, division).
-4.	Once the game starts, you will be presented with math problems to solve.
-5.	Answer the problems within 10 seconds to earn a time-based score.
-6.	Continue playing until you decide to exit the game or choose to play again.
+
+     • Start Game: Choose the game mode and math operation.
+
+     • About me: Get information about the author.
+
+     • Exit: Exit the game.
+
+4.	Select the "Start Game" option to choose the difficulty level (easy, medium, hard) and the desired math operation (addition, subtraction, multiplication, division).
+5.	Once the game starts, you will be presented with math problems to solve.
+6.	Answer the problems within 10 seconds to earn a time-based score.
+7.	Continue playing until you decide to exit the game or choose to play again.
 
 **Features**
 
