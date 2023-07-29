@@ -48,11 +48,14 @@ To compile and run the Math Games Project, follow these steps:
   ./math_games 
 
 **Contributing**
+
 This project was created for educational purposes, and contributions are not expected. However, if you wish to improve the project or fix any issues, you are welcome to fork the repository and create a pull request.
 
 **License**
+
 This project is open-source and provided under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 **Contact Information**
 If you have any questions or feedback, you can reach out to the author, Shahriar Siddique, at  shahriar.siddique1x2@gmail.com
 ________________________________________
-**Note:** The provided readme is a basic example. Feel free to modify and expand it according to your project's needs and add appropriate contact information, license details, and more details about the game mechanics.
+**Note:** 
+The provided readme is a basic example. Feel free to modify and expand it according to your project's needs and add appropriate contact information, license details, and more details about the game mechanics.
