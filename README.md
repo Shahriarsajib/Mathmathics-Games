@@ -22,13 +22,23 @@ How to Play
 6.	Continue playing until you decide to exit the game or choose to play again.
 
 **Features**
-•	Three game modes: easy, medium, and hard.
-•	Four math operations: addition, subtraction, multiplication, and division.
-•	Time-based scoring system.
-•	Simple and easy-to-use interface.
+
+• Three game modes: easy, medium, and hard.
+
+• Four math operations: addition, subtraction, multiplication, and division.
+
+• Time-based scoring system.
+
+• Simple and easy-to-use interface.
+
+
+
+
 
 **How to Compile and Run**
+
 To compile and run the Math Games Project, follow these steps:
+
 1.	Save the code into a file with a ".c" extension (e.g., math_games.c).
 2.	Open a terminal or command prompt.
 3.	Navigate to the directory where the file is saved.
