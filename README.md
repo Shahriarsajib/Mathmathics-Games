@@ -1,8 +1,13 @@
-Math Games Project
-Author: Shahriar Siddique 
-Date: 12-11-2018 Version: 2.0
+**Math Games Project**
 
-Description
+**Author:** Shahriar Siddique 
+
+**Date:** 12-11-2018 
+
+**Version:** 2.0
+
+**Description**
+
 This is a simple command-line Math Games Project written in C. The project offers three different game modes (easy, medium, and hard) and multiple math operations (addition, subtraction, multiplication, and division) for players to practice their math skills. The game also includes a time-based scoring system, rewarding players for quick and correct answers.
 
 How to Play
